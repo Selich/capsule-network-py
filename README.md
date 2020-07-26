@@ -14,7 +14,7 @@ Video:
 https://github.com/sekwiatkowski/awesome-capsule-networks
 
 ### Infografik:
- - The Modern History of Object Recognition — Infographic | by Dang Ha The Hien- Pregled razvoja Komputerske vizije-navazniji dogadjaji i takmicenja
+ - The Modern History of Object Recognition — Infographic | by Dang Ha The Hien- Pregled razvoja Komputerske vizije-navazniji dogadjaji i takmicenja https://miro.medium.com/max/1200/1*xAd4dHFESXxGm40IdsHP1Q.png
 
 ### Github:
  - Capsule Networks-Resursi https://github.com/sekwiatkowski/awesome-capsule-networks
