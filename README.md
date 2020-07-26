@@ -16,11 +16,10 @@ Infografik:
 The Modern History of Object Recognition — Infographic | by Dang Ha The Hien- Pregled razvoja Komputerske vizije-navazniji dogadjaji i takmicenja
 
 Github:
-Capsule Networks-Resursi
-Implementacija-Tensor flow
+Capsule Networks-Resursi https://github.com/sekwiatkowski/awesome-capsule-networks
 
 Papers:
-MATRIX CAPSULES WITH EM ROUTING
+MATRIX CAPSULES WITH EM ROUTING https://openreview.net/pdf?id=HJWLfGWRb
 Graph Capsule Convolutional Neural Networks - https://arxiv.org/pdf/1805.08090.pdf
 
 Implementation:
