@@ -9,7 +9,7 @@ Capsule networks-Pregled Hintonovog rada
 Kratak pregled CNN i Capsule Networks-razvoj Komputerske vizije
 Dinamicko rutiranje izmedju kapsula
 Pregled Dinamickog rutiranja i Expectation Maximisation algoritmna
-Capsule Networks-Osnove,SUBSPACE Capsule Networks (big math energy), Primene-KURS 
+Capsule Networks-Osnove,SUBSPACE Capsule Networks (big math energy), Primene-KURS , prateci slajdovi-https://www.crcv.ucf.edu/cvpr2019-tutorial/
 https://github.com/sekwiatkowski/awesome-capsule-networks
 
 Infografik:
