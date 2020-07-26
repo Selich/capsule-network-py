@@ -4,12 +4,12 @@ WIP: https://docs.google.com/document/d/1Y-LLiHhaBR_No6AuSuSHNJbofFIBOyRGM3uayCL
 
 Материјали:
 Video:
-Hinton- Caps net Motivacija,Principi, Ogranicenja
-Capsule networks-Pregled Hintonovog rada 
-Kratak pregled CNN i Capsule Networks-razvoj Komputerske vizije
-Dinamicko rutiranje izmedju kapsula
-Pregled Dinamickog rutiranja i Expectation Maximisation algoritmna
-Capsule Networks-Osnove,SUBSPACE Capsule Networks (big math energy), Primene-KURS , prateci slajdovi-https://www.crcv.ucf.edu/cvpr2019-tutorial/
+Hinton- Caps net Motivacija,Principi, Ogranicenja https://www.youtube.com/watch?v=x5Vxk9twXlE
+Capsule networks-Pregled Hintonovog rada https://www.youtube.com/watch?v=YqazfBLLV4U
+Kratak pregled CNN i Capsule Networks-razvoj Komputerske vizije https://www.youtube.com/watch?v=VKoLGnq15RM
+Dinamicko rutiranje izmedju kapsula https://www.youtube.com/watch?v=0YYdo3vJnzU
+Pregled Dinamickog rutiranja i Expectation Maximisation algoritmna https://www.youtube.com/watch?v=r6qEIiET0cU
+Capsule Networks-Osnove,SUBSPACE Capsule Networks (big math energy), Primene-KURS https://www.youtube.com/watch?v=ufYLDdCH4Co&list=PLd3hlSJsX_Ikg42iaRHjBTWDSVK96tmDt , prateci slajdovi-https://www.crcv.ucf.edu/cvpr2019-tutorial/
 https://github.com/sekwiatkowski/awesome-capsule-networks
 
 Infografik:
