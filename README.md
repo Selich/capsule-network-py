@@ -2,7 +2,7 @@
 
 ### WIP: https://docs.google.com/document/d/1Y-LLiHhaBR_No6AuSuSHNJbofFIBOyRGM3uayCLWYC8/edit?usp=sharing
 
-### Материјали:
+### Materijali:
 Video:
  - Hinton- Caps net Motivacija,Principi, Ogranicenja https://www.youtube.com/watch?v=x5Vxk9twXlE
  - Capsule networks-Pregled Hintonovog rada https://www.youtube.com/watch?v=YqazfBLLV4U
